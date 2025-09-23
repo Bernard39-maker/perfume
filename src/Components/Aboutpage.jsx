@@ -35,7 +35,7 @@ const Aboutpage = () => {
                 "Your company have been great at keeping me in work, they always line something else up.",
             name: "Amanda Person",
             role: "Blogger",
-            image: "https://xtratheme.com/elementor/perfume-shop/wp-content/uploads/sites/80/2019/08/t13-150x150.jpg",
+            image: "/t13.jpeg",
         },
     ];
 
