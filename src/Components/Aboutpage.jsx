@@ -249,7 +249,7 @@ const Aboutpage = () => {
                         own furniture, using wood, stone, and animal bones.
                     </Text>
 
-                    <SimpleGrid columns={{ base: 1, md: 3 }} spacing={6}>
+                    <SimpleGrid columns={{ base: 3, md: 3 }} spacing={6}>
                         {[
                             { value: "370", label: "Perfumes" },
                             { value: "7k", label: "Happy Clients" },
