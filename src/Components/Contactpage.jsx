@@ -13,7 +13,7 @@ import {
 } from "@chakra-ui/react";
 import { IoMdHome, IoMdMail, IoMdCall, IoMdPin, IoMdCheckmark } from "react-icons/io";
 
-// Keyframes for bounce effect
+
 const bounce = `
   @keyframes bounceInOut {
     0% { transform: scale(1); }
@@ -98,7 +98,7 @@ const ContactPage = () => {
                 ))}
             </Flex>
 
-            {/* Map Section with Marker */}
+            
             <Box position="relative" w="100%" h="400px">
                 {/* Dark Google Map Embed */}
                 <iframe

@@ -316,7 +316,7 @@ const Aboutpage = () => {
                 </Heading>
 
 
-                {/* Carousel */}
+              
                 <Box position="relative" maxW="4xl" mx="auto">
                     {/* Left Arrow */}
                     <Box
